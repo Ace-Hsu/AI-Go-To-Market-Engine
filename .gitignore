@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# AI Agent System - API Keys & Secrets Protection
+config.json
+**/config.json
+*.key
+*.secret
+*api*key*
+*secret*
+*token*
+.anthropic
+anthropic_api_key*
+service-account-key.json
+**/service-account-key.json
+
+# AI Agent System - Project Data (optional - keep if you want to exclude project data)
+# **/1_input/
+# **/2_system_assets/
+# **/3_unlabeled/
+# **/5_labeled_json/

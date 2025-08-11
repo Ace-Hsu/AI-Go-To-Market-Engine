@@ -1,0 +1,20 @@
+# Gap Analysis Agent Requirements
+# No external dependencies - uses only Python standard library
+
+# For GUI evaluation (built into Python)
+# tkinter
+
+# For JSON handling (built into Python)  
+# json
+
+# For file operations (built into Python)
+# pathlib
+
+# For HTTP requests (built into Python)
+# urllib
+
+# For date/time operations (built into Python)
+# datetime
+
+# Note: This system is designed to work with Python standard library only
+# No pip install required beyond Python 3.x

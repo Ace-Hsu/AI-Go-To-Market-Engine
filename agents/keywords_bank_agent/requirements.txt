@@ -1,0 +1,15 @@
+# Keywords Bank Agent - Core Requirements Only
+# Simple text processing and API calls
+
+# Claude API for text generation
+anthropic>=0.18.0
+
+# GUI for evaluation (included with Python)
+# tkinter - comes with Python installation
+
+# All other dependencies are Python standard library:
+# - json (for config files)
+# - datetime (for timestamps) 
+# - os (for file operations)
+# - pathlib (for file paths)
+# - tkinter (for GUI)

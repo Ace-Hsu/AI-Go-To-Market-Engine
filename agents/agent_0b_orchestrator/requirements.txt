@@ -1,0 +1,18 @@
+# Agent 0b: Pipeline Orchestrator Requirements
+# No external dependencies - uses only Python standard library
+
+# The script uses:
+# - json (built-in)
+# - os (built-in)
+# - sys (built-in)
+# - shutil (built-in)
+# - subprocess (built-in)
+# - datetime (built-in)
+# - pathlib (built-in)
+
+# Python version requirement
+# python>=3.6
+
+# Optional for development/testing:
+# pytest>=6.0.0
+# black>=21.0.0

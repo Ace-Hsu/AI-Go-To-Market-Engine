@@ -1,0 +1,7 @@
+{
+  "anthropic_api_key": "YOUR_ANTHROPIC_API_KEY_HERE",
+  "model": "claude-3-5-sonnet-20241022",
+  "max_tokens": 4000,
+  "temperature": 0.3,
+  "current_project": "your_project_name_here"
+}
